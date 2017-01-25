@@ -1,2 +1,2 @@
-# prueba2
-prueba2
+# Bienvenido al repositorio prueba2
+Esto es prueba2
